@@ -1,0 +1,5 @@
+set a b
+list
+get a
+set a c
+get a
